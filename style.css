@@ -1,0 +1,34 @@
+.cardseparation {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.reticula{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.margingnav{
+    padding: 20px;
+}
+
+.instruc{
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+h5{
+    font-size: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cardsize{
+    width: 200px;
+    height: 200px;
+}
