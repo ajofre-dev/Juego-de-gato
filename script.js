@@ -48,7 +48,7 @@ var caValor = document.getElementById("ca-valor");
 caValor.innerHTML = ca.valor;
 
 var cb = {
-    valor: "?",
+    valor: "O",
 }
 
 var cbValor = document.getElementById("cb-valor");
