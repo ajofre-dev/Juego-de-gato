@@ -41,7 +41,7 @@ var bcValor = document.getElementById("bc-valor");
 bcValor.innerHTML = bc.valor;
 
 var ca = {
-    valor: "?",
+    valor: "X",
 }
 
 var caValor = document.getElementById("ca-valor");
