@@ -27,14 +27,14 @@ var baValor = document.getElementById("ba-valor");
 baValor.innerHTML = ba.valor;
 
 var bb = {
-    valor: "t",
+    valor: "?",
 }
 
 var bbValor = document.getElementById("bb-valor");
 bbValor.innerHTML = bb.valor;
 
 var bc = {
-    valor: "Z",
+    valor: "?",
 }
 
 var bcValor = document.getElementById("bc-valor");
