@@ -34,7 +34,7 @@ var bbValor = document.getElementById("bb-valor");
 bbValor.innerHTML = bb.valor;
 
 var bc = {
-    valor: "?",
+    valor: "Z",
 }
 
 var bcValor = document.getElementById("bc-valor");
