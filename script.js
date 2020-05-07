@@ -27,7 +27,7 @@ var baValor = document.getElementById("ba-valor");
 baValor.innerHTML = ba.valor;
 
 var bb = {
-    valor: "?",
+    valor: "t",
 }
 
 var bbValor = document.getElementById("bb-valor");
