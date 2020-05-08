@@ -1,63 +1,63 @@
-var aa = {
+let aa = {
     valor: "?",
 }
 
-var aaValor = document.getElementById("aa-valor");
+let aaValor = document.getElementById("aa-valor");
 aaValor.innerHTML = aa.valor;
 
-var ab = {
+let ab = {
     valor: "?",
 }
 
-var abValor = document.getElementById("ab-valor");
+let abValor = document.getElementById("ab-valor");
 abValor.innerHTML = ab.valor;
 
-var ac = {
+let ac = {
     valor: "?",
 }
 
-var acValor = document.getElementById("ac-valor");
+let acValor = document.getElementById("ac-valor");
 acValor.innerHTML = ac.valor;
 
-var ba = {
+let ba = {
     valor: "?",
 }
 
-var baValor = document.getElementById("ba-valor");
+let baValor = document.getElementById("ba-valor");
 baValor.innerHTML = ba.valor;
 
-var bb = {
+let bb = {
     valor: "?",
 }
 
-var bbValor = document.getElementById("bb-valor");
+let bbValor = document.getElementById("bb-valor");
 bbValor.innerHTML = bb.valor;
 
-var bc = {
+let bc = {
     valor: "?",
 }
 
-var bcValor = document.getElementById("bc-valor");
+let bcValor = document.getElementById("bc-valor");
 bcValor.innerHTML = bc.valor;
 
-var ca = {
-    valor: "X",
+let ca = {
+    valor: "?",
 }
 
-var caValor = document.getElementById("ca-valor");
+let caValor = document.getElementById("ca-valor");
 caValor.innerHTML = ca.valor;
 
-var cb = {
-    valor: "O",
+let cb = {
+    valor: "?",
 }
 
-var cbValor = document.getElementById("cb-valor");
+let cbValor = document.getElementById("cb-valor");
 cbValor.innerHTML = cb.valor;
 
-var cc = {
-    valor: "A",
+let cc = {
+    valor: "?",
 }
 
-var ccValor = document.getElementById("cc-valor");
+let ccValor = document.getElementById("cc-valor");
 ccValor.innerHTML = cc.valor;
 
