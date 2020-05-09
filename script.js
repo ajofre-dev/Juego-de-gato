@@ -1,5 +1,5 @@
 let aa = {
-    valor: "?",
+    valor: "x",
 }
 
 let aaValor = document.getElementById("aa-valor");
