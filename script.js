@@ -55,7 +55,7 @@ let cbValor = document.getElementById("cb-valor");
 cbValor.innerHTML = cb.valor;
 
 let cc = {
-    valor: "?",
+    valor: "x",
 }
 
 let ccValor = document.getElementById("cc-valor");
