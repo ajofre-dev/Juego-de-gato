@@ -1,5 +1,5 @@
 let aa = {
-    valor: "?",
+    valor: "x",
 }
 
 let aaValor = document.getElementById("aa-valor");
@@ -27,7 +27,7 @@ let baValor = document.getElementById("ba-valor");
 baValor.innerHTML = ba.valor;
 
 let bb = {
-    valor: "?",
+    valor: "x",
 }
 
 let bbValor = document.getElementById("bb-valor");
