@@ -6,7 +6,7 @@ let aaValor = document.getElementById("aa-valor");
 aaValor.innerHTML = aa.valor;
 
 let ab = {
-    valor: "?",
+    valor: "o",
 }
 
 let abValor = document.getElementById("ab-valor");
@@ -34,7 +34,7 @@ let bbValor = document.getElementById("bb-valor");
 bbValor.innerHTML = bb.valor;
 
 let bc = {
-    valor: "?",
+    valor: "o",
 }
 
 let bcValor = document.getElementById("bc-valor");
@@ -55,7 +55,7 @@ let cbValor = document.getElementById("cb-valor");
 cbValor.innerHTML = cb.valor;
 
 let cc = {
-    valor: "?",
+    valor: "o",
 }
 
 let ccValor = document.getElementById("cc-valor");
