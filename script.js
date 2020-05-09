@@ -13,7 +13,7 @@ let abValor = document.getElementById("ab-valor");
 abValor.innerHTML = ab.valor;
 
 let ac = {
-    valor: "?",
+    valor: "O",
 }
 
 let acValor = document.getElementById("ac-valor");
