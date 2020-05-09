@@ -20,7 +20,7 @@ let acValor = document.getElementById("ac-valor");
 acValor.innerHTML = ac.valor;
 
 let ba = {
-    valor: "?",
+    valor: "x",
 }
 
 let baValor = document.getElementById("ba-valor");
